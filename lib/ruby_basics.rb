@@ -6,7 +6,7 @@ end
 
 def assign_variable(name)
   name = "Bob"
-  puts name
+  name
 end
 
 def argue
